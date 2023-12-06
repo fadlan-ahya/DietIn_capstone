@@ -1,0 +1,13 @@
+food name,ingridient 1,lectin status 1,ingridient 2,lectin status 2,ingridient 3,lectin status 3,ingridient 4,lectin status 4,ingridient 5,lectin status 5
+Ayam Bakar,bawang,low,ketumbar,low,garam,low,cabai,low,daging ayam,low
+Bakso,daging,low,seledri,low,bawang,low,garam,low,tepung,low
+Bebek Goreng,daging bebek,low,bawang,low,ketumbar,low,garam,low,merica,low
+Burger,roti,low,daging,low,selada,low,tomat,low,bawang,low
+Gado-Gado,tauge,low,cabai,low,timun,low,kacang panjang,low,kacang tanah,high
+Gudeg,santan kelapa,low,gula,low,daun salam,low,lengkuas,low,nangka,low
+Omelette,telur,low,keju,low,merica,low,bawang,low,garam,low
+Rendang,daging sapi,low,santan kelapa,low,cabai,low,bawang,low,garam,low
+Salad,tomat,low,mentimun,low,wortel,low,cabai,low,mayones,low
+Sate,daging,low,kedelai,high,cabai,low,bawang,low,kacang tanah,high
+Sayur Asem,kacang panjang,low,labu siam,low,asam jawa,low,melinjo,high,daun melinjo,high
+Semur Jengkol,kedelai,high,bawang,low,merica,low,daun salam,low,jengkol,high
